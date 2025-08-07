@@ -24,3 +24,11 @@ const age = 30;
 console.log('Name is ' + name + 'an I am ' + age);
 // Template String
 console.log(`Name is ${name} and I am ${age}`); 
+
+
+String datatype in const
+
+
+const s = 'technology, computers, it, code';
+
+console.log(s.split(', '));
