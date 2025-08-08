@@ -18,10 +18,11 @@ body{
     color:#fff;
 }
 
-#navbar{
-    background-color:darkgray
-    color(white)
+#navbar {
+    background-color: darkgray;
+    color: white;
 }
+
 
 #navbar ul{
     padding:0;
@@ -88,4 +89,15 @@ body{
         width:100%;
         float:none;
     }
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: black;
 }
